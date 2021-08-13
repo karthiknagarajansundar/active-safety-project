@@ -26,3 +26,12 @@ For the hypothetical rear-end conflict situation an Active safety system is desi
 
 ## Conclusion
 Thus in order to avoid the rear-end collision, the Active safety system firstly provides a warning to the driver so that the driver takes required action in two scenarios where the warning is in advance (conservative) and near the last moment (aggressive). If the driver doesn't take any action, then the Active safety system initiates the AEB system in order to stop the collision automatically.
+
+## Others
+* Basic analysis of LiDAR data, coordinate transformation and mapping
+<img src="https://github.com/karthiknagarajansundar/active-safety-project/blob/main/Data/LiDAR.gif" width="500" height="400">
+* Analysis of CAN data
+* Signal processing to filter data
+* Naturalistic data analysis
+* Field data acquisition and analysis
+* Human factors of automated driving
