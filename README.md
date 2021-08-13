@@ -30,6 +30,7 @@ Thus in order to avoid the rear-end collision, the Active safety system firstly 
 ## Others
 * Basic analysis of LiDAR data, coordinate transformation and mapping
 <img src="https://github.com/karthiknagarajansundar/active-safety-project/blob/main/Data/LiDAR.gif" width="500" height="400">
+
 * Analysis of CAN data
 * Signal processing to filter data
 * Naturalistic data analysis
